@@ -20,6 +20,6 @@
     "morgan": "~1.7.0",
     "mysql": "^2.16.0",
     "serve-favicon": "~2.3.0",
-    "underscore": "^1.8.3"
+    "underscore": "^1.12.1"
   }
 }
